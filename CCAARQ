@@ -1,0 +1,3 @@
+//Instalar todo el requirements.txt
+
+pip install -r requirements.txt
