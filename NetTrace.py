@@ -4,13 +4,13 @@
 # Desarrollado por Tobías R. para uso personal y educativo
 # ===============================
 #
-# Cómo está montado este archivo (por si hay que buscar algo):
+# Cómo está montado este archivo:
 #   1. Rutas, columnas del resultado y texto legal
-#   2. Consola: limpiar pantalla, pegados raros, pausas
+#   2. Consola: limpiar pantalla, pegados contaminados (limpieza), pausas
 #   3. Animación de arranque
 #   4. Claves de API (cargar / guardar)
-#   5. ¿La IP vale? ¿Es privada?
-#   6. Llamadas a AbuseIPDB, IPinfo y VPNAPI
+#   5. IP valida, privada, ...
+#   6. API CALL a AbuseIPDB, IPinfo y VPNAPI
 #   7. Análisis y cómo se pintan los resultados
 #   8. Excel (abrir y guardar)
 #   9. Menús (configuración, analizar, ayuda)
